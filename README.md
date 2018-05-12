@@ -8,4 +8,5 @@ files with weights below(network import them automaticly).
 Some descriptions about partial derivatives are taking place
 in the code.
 Training base,that contains 300 images of three brands,
-is not included(download takes a lot of time)
+is not included(download takes a lot of time).
+Running without training base will thow an exeption.
