@@ -1,6 +1,6 @@
 #DEV_BLOG
 14.05.2018
 Final changes in preprocessing:
-  -function "opne_image" was remade.
+  -function "open_image" was remade.
    This fix raises network accuracy
    from 99.6% to 100%.
