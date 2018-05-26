@@ -280,7 +280,7 @@ class Network(object):
               (self.success / amount_of_images) * 100, "%")
 
 
-total_images = 31
+total_images = 100
 images = make_images_array()
 network = Network
 network.__init__(network, total_images)
