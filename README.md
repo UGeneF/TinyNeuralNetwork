@@ -1,7 +1,7 @@
 # TinyNeuralNetwork
 ## Disclaimer
 When I wrote this code , I hadn`t know Python 
-language at all, thats the code is ugly.(Today I have level-up) 
+language at all, thats why the code is ugly.(Today I have level-up) 
 Nevertheless, your first Neural Network will always be
 exiting experience for you :)
 ## Network description
