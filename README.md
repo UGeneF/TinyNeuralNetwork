@@ -4,6 +4,7 @@
 >language at all, thats the code is ugly.(Today I have level-up) 
 >Nevertheless, your first Neural Network will always be
 >exiting experience for you :)
+## Network description
 The network is represented by one class.
 It has one input layer,three hidden layers
 and three output.
