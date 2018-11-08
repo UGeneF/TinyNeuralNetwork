@@ -3,7 +3,7 @@
 When I wrote this code , I hadn`t know Python 
 language at all, thats why the code is ugly (today I have level-up). 
 Nevertheless, your first Neural Network will always be
-exiting experience for you :)
+an exiting experience for you :)
 ## Network description
 The network is represented by one class.
 It has one input layer,three hidden layers
