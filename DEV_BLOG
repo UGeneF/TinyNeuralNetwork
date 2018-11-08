@@ -3,7 +3,7 @@
 Final changes in preprocessing:
   -function "open_image" was remade.
    This fix raises network accuracy
-   from 99.6% to 100%.
+   from 60% to 78%.
 Derivative fix:
   -fixed uncorrect "delta_out"
    calcutating at "back_propagate"
